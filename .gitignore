@@ -1,0 +1,34 @@
+# R session/history
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+
+# macOS
+.DS_Store
+
+# Office temp files
+~$*
+
+# Local backup artifacts
+*.bak
+*.backup
+*.backup.*
+*.bak_*
+*.tmp
+
+# Ignore large/irrelevant source docs and drafts
+Project 3 Group files/
+Project 3 Proposal - Inside Airbnb Albany.docx
+Project 3 Proposal - Inside Airbnb NYC.docx
+Project 3 Proposal - Inside Airbnb NYC.html
+Project 3 Wireframes - Inside Airbnb NYC.docx
+Project 3 Wireframes - Inside Airbnb NYC.html
+Project 3 Design and Build an Interactive Data App.pdf
+dashboard-mockup.html
+generate_skeleton_deck.applescript
+
+# Keep current final slide deck if desired; ignore backups
+Project 3 April 21 Presentation Slides.backup*.pptx
+Project 3 April 21 Presentation Slides.pptx.bak_*
+app.R.backup*
