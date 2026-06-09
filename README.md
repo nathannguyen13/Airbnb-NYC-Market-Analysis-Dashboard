@@ -1,6 +1,6 @@
 # Airbnb NYC Market Structure Analysis
 
-This project is an interactive Shiny dashboard and data story that analyzes the NYC Airbnb market using Inside Airbnb listing and review data. It's available online here: https://austin287908.shinyapps.io/final_ds_project2_app/
+This project is an interactive Shiny dashboard and data story that analyzes the NYC Airbnb market using Inside Airbnb listing and review data. It's available online here: https://nathnhr.shinyapps.io/airbnb_dashboard/
 
 ## Project Structure
 
